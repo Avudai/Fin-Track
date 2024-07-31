@@ -1,0 +1,32 @@
+.search-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-bottom: 30px;
+    gap: 1rem;
+}
+
+.search {
+}
+
+.select-input {
+
+}
+
+.table-header {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.transaction-table {
+    padding: 2rem;
+    margin: 2rem;
+    border: 1px solid gray;
+}

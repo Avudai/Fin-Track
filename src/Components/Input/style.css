@@ -1,0 +1,10 @@
+.label-input {
+   margin-bottom: 0.5px;
+   font-size: 1rem; 
+}
+
+.custom-input {
+    border-width: 0;
+    /* width: 100px; */
+    border-bottom: 1px solid;
+}

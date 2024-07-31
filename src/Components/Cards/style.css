@@ -1,0 +1,12 @@
+.my-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 2rem;
+    margin: 2rem auto;
+}
+
+.my-card {
+    min-width: 480px;
+}
